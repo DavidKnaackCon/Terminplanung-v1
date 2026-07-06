@@ -1,0 +1,18 @@
+# Umgebung
+venv/
+__pycache__/
+*.pyc
+
+# Django
+*.sqlite3
+db.sqlite3
+staticfiles/
+media/
+
+# Sonstiges
+.env
+*.log
+.vscode/
+.idea/
+*.slnx
+.vs/
